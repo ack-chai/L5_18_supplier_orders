@@ -1,0 +1,4 @@
+>> Issue: [B608:hardcoded_sql_expressions] Possible SQL injection vector through string-based query construction. Severity: Medium, Confidence: Medium. Location: ./supplier_orders.py:11
+>> Issue: [B605:start_process_with_a_shell] Starting a process with a shell, possible injection detected, security issue. Severity: High, Confidence: High. Location: ./supplier_orders.py:21
+>> Issue: [B110:try_except_pass] Try, Except, Pass detected. Severity: Low, Confidence: High. Location: ./supplier_orders.py:27
+Total issues (by severity): Low: 1, Medium: 1, High: 1
